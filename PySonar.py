@@ -1,7 +1,5 @@
 # Written by Zahran Sajid, A sonar system using an arduino sending data via serial to python using pygame which plots it on a display.
-# Licensed under the terms of the  GNU GENERAL PUBLIC LICENSE V2, If you have not obtained a copy of it along with the program, Please write to:
-# Free Software Foundation, Inc.,
-# 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+# Licensed under the terms of the  GNU GENERAL PUBLIC LICENSE V2.
 
 import logging as l   # IMPORTANT!
 import time 
